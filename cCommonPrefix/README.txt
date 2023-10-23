@@ -22,3 +22,5 @@ Constraints:
 
 1 <= strs.length <= 200
 0 <= strs[i].length <= 200
+
+What even in the fuck.
